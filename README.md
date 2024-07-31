@@ -2,7 +2,7 @@
 
 **using ADB and Termux to make connection with our TAB with the chip(8-cores)**
 
-````sh
+```sh
 https://github.com/Guney-olu/llama-in-cpp
 ```
 
