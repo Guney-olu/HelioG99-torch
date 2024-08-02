@@ -13,8 +13,8 @@ We clocked 14toks/sec (which is pretty slower compared to the bechmarks)
 ```sh
  git clone https://github.com/Guney-olu/tinyOPS.git
  python3 -m pip install tinygrad
- python3 -m LDFLAGS=-llog pip install sentencepiece
- pkg python-numpy
+ LDFLAGS=-llog python3 -m  pip install sentencepiece
+ pkg install python-numpy
 ```
 
 **We are able to load models issue is predicting the tokens (Solvable)**
